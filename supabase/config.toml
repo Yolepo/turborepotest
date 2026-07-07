@@ -1,0 +1,5 @@
+# Fichier de configuration de Supabase
+[project]
+id = "votre-id-de-projet"
+name = "votre-nom-de-projet"
+# ... autres configurations

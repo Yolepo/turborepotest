@@ -1,0 +1,38 @@
+{
+  "name": "portal-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "@mui/material": "^5.15.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.0",
+    "i18next": "^23.7.7",
+    "react-i18next": "^13.5.0",
+    "@casl/ability": "^6.5.0",
+    "@casl/react": "^3.1.0",
+    "@repo/theme": "workspace:*",
+    "@repo/auth": "workspace:*",
+    "@repo/permissions": "workspace:*",
+    "admin-app": "workspace:*",
+    "docs-app": "workspace:*",
+    "@repo/module-abonnes": "workspace:*",
+    "@repo/module-rc": "workspace:*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0",
+    "typescript": "^5.3.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript-config-custom": "workspace:*"
+  }
+}
