@@ -1,0 +1,2 @@
+# Ignore les fichiers générés par la CLI Supabase
+.supabase/
